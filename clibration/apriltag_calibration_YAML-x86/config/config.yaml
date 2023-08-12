@@ -1,0 +1,8 @@
+Configpath:
+  detection_model: 2
+  Absolute_Path: /home/wyj/software/ubuntu_source_code/apriltag_calibration_YAML-x86/
+  camera_parameter_path: /home/wyj/software/ubuntu_source_code/apriltag_calibration_YAML-x86/config/camera_parameter.yaml
+  chessimage_path: /home/wyj/software/ubuntu_source_code/apriltag_calibration_YAML-x86/build/zuoqian.jpg
+  vehicle_points: /home/wyj/software/ubuntu_source_code/apriltag_calibration_YAML-x86/config/chess_vehicle_points.txt
+  
+

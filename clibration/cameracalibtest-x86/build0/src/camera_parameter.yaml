@@ -1,0 +1,14 @@
+%YAML:1.0
+---
+Time: "Wed Jan  5 16:07:26 2022\n"
+camera_matrix: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: f
+   data: [ 3.16614319e+02, 0., 6.46025146e+02, 0., 3.15233276e+02,
+       3.55636047e+02, 0., 0., 1. ]
+dist_coeffs: !!opencv-matrix
+   rows: 1
+   cols: 5
+   dt: f
+   data: [ 1.78304881e-01, -3.26466337e-02, 0., 0., 2.39275838e-03 ]

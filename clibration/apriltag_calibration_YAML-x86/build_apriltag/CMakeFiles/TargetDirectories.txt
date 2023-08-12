@@ -1,0 +1,3 @@
+/home/wyj/software/apriltag_calibration_YAML-x86/build_apriltag/CMakeFiles/edit_cache.dir
+/home/wyj/software/apriltag_calibration_YAML-x86/build_apriltag/CMakeFiles/rebuild_cache.dir
+/home/wyj/software/apriltag_calibration_YAML-x86/build_apriltag/CMakeFiles/Apriltag_detection.dir
